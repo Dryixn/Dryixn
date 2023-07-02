@@ -6,3 +6,5 @@ but others areas in programming also interest me.
 ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=Dryixn&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=Dryixn&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dryixn&theme=neon&hide_border=false"  width="400px" />

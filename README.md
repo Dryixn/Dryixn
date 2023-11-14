@@ -6,3 +6,4 @@ but others areas in programming also interest me.
 ### GitHub Stats
 
 ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=Dryixn&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dryixn&hide=contribs,prs)

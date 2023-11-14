@@ -7,4 +7,4 @@ but others areas in programming also interest me.
 
 
 ![Dryixn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dryixn&hide=contribs,prs&theme=tokyonight)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dryixn&hide=javascript,html)

@@ -6,5 +6,5 @@ but others areas in programming also interest me.
 ### GitHub Stats
 
 
-![Dryixn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dryixn&hide=contribs,prs)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dryixn&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Dryixn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dryixn&hide=contribs,prs&theme=tokyonight)
+

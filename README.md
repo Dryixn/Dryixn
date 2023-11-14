@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there
 
 I'm a programming studding. My goal in programming in the future is to progaram games, 
 but others areas also interest me.

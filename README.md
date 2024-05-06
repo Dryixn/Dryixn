@@ -1,6 +1,6 @@
 ### Hi there
 
-I'm a programming student. My goal in programming in the future is to progaram games, 
+I'm a programming student. My goal in programming in the future is to program games, 
 but others areas also interest me.
 
 ### Tech Stack
